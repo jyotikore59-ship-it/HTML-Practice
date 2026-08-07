@@ -1,4 +1,4 @@
 # HTML-Practice
 this is my first github repository
 <br>
-Author-jyoti kore
+Author-jyoti kore(in college)
